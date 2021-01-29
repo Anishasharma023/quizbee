@@ -1,0 +1,18 @@
+body{
+  /*background-image: url(./assets/eluoec-y-I-X1zpshY-unsplash.jpg);*/
+  background-color: #9e9e9e;
+  opacity: 0.2px;
+}
+.heading{
+  color: purple;
+}
+.App {
+  text-align: center;
+  background-color:transparent;
+  height: 550px;
+  width: 80%;
+  margin: 10px auto;
+  color: #fff;
+}
+
+

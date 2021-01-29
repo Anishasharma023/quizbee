@@ -1,0 +1,25 @@
+.score{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.scoreboard{
+    background-color: purple;
+    height: 200px;
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.playbtn{
+  height: 47px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+  background-color: rgb(202,156,24);
+  cursor: pointer;
+  font-weight: bolder;
+  color: #fff;
+  margin-top: 50px;
+}
